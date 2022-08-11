@@ -1,0 +1,14 @@
+GET https://api.coincap.io/v2/assets?limit=5
+
+//GET https://api.central.ballerina.io/2.0/registry/packages?limit=2
+
+
+
+
+{
+    "name": "Kadena",
+    "priceUsd": "2.2502777123253308",
+}
+
+
+
